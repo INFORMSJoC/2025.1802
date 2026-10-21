@@ -12,10 +12,7 @@ This repository contains the computational materials for
 by Benjamin Grimmer and Alex L. Wang.
 
 The software was developed in the
-[NonsmoothSubgamePerfectMethods repository](https://github.com/bgrimmer/NonsmoothSubgamePerfectMethods).
-
-**For subsequent versions and support, please visit the development repository:
-https://github.com/bgrimmer/NonsmoothSubgamePerfectMethods.**
+[NonsmoothSubgamePerfectMethods repository](https://github.com/bgrimmer/NonsmoothSubgamePerfectMethods). Please go there if you would like to get a more recent version or would like support
 
 ## Cite
 
