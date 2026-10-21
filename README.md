@@ -9,7 +9,7 @@ The software and associated documentation are distributed under the
 
 This repository contains the computational materials for
 [Subgame Perfect Methods in Nonsmooth Convex Optimization](https://doi.org/10.1287/ijoc.2025.1802)
-by Benjamin Grimmer and Alex L. Wang.
+by Benjamin Grimmer and Alex L. Wang. All the code in the repository was developed by the authors and has been used solely for this project.
 
 The software was developed in the
 [NonsmoothSubgamePerfectMethods repository](https://github.com/bgrimmer/NonsmoothSubgamePerfectMethods). Please go there if you would like to get a more recent version or would like support
